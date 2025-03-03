@@ -34,8 +34,8 @@ MFTP是一款开源的多语言FTP文件同步工具，专为开发者和系统�
 #### 🛠 安装方法
 
 ```bash
-# 使用Go安装
-go clone https://github.com/liliangshan/mftp.git
+# 使用git安装
+git clone https://github.com/liliangshan/mftp.git
 
 # 或直接下载可执行文件
 ```
