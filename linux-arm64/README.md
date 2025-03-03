@@ -35,7 +35,7 @@ MFTP是一款开源的多语言FTP文件同步工具，专为开发者和系统�
 
 ```bash
 # 使用Go安装
-go install github.com/liliangshan/mftp@latest
+go clone https://github.com/liliangshan/mftp.git
 
 # 或直接下载可执行文件
 ```
@@ -97,8 +97,8 @@ MFTP is an open-source, multilingual FTP file synchronization tool designed for 
 #### 🛠 Installation
 
 ```bash
-# Install via Go
-go install github.com/liliangshan/mftp@latest
+# Install via git
+go clone https://github.com/liliangshan/mftp.git
 
 # Or download executable directly
 ```
@@ -160,8 +160,8 @@ MFTP是一款開源的多語言FTP檔案同步工具，專為開發者和系統�
 #### 🛠 安裝方法
 
 ```bash
-# 使用Go安裝
-go install github.com/liliangshan/mftp@latest
+# 使用git安裝
+git clone https://github.com/liliangshan/mftp.git
 
 # 或直接下載可執行檔
 ```
@@ -223,8 +223,8 @@ MFTPは、開発者とシステム管理者向けに設計されたオープン�
 #### 🛠 インストール方法
 
 ```bash
-# Goを使用してインストール
-go install github.com/liliangshan/mftp@latest
+# gitを使用してインストール
+git clone https://github.com/liliangshan/mftp.git
 
 # または実行ファイルを直接ダウンロード
 ```
@@ -286,8 +286,8 @@ MFTP는 개발자와 시스템 관리자를 위해 설계된 오픈 소스 다�
 #### 🛠 설치 방법
 
 ```bash
-# Go를 사용하여 설치
-go install github.com/liliangshan/mftp@latest
+# git를 사용하여 설치
+git clone https://github.com/liliangshan/mftp.git
 
 # 또는 실행 파일 직접 다운로드
 ```
@@ -349,8 +349,8 @@ MFTP est un outil de synchronisation de fichiers FTP open-source et multilingue,
 #### 🛠 Installation
 
 ```bash
-# Installer via Go
-go install github.com/liliangshan/mftp@latest
+# Installer via git
+git clone https://github.com/liliangshan/mftp.git
 
 # Ou télécharger directement l'exécutable
 ```
